@@ -1,4 +1,8 @@
 ‚¨‚Í‚æ‚¤
 —Ç‚¢’©
 
+<<<<<<< HEAD
 edited by master
+=======
+edited by develop
+>>>>>>> origin/develop
